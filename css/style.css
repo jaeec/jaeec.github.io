@@ -1,0 +1,179 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+nav ul a,
+nav .brand-logo {
+  color: #444;
+}
+
+nav {
+  position: fixed;
+  z-index: 11111111;
+}
+
+p {
+  line-height: 2rem;
+}
+
+.button-collapse {
+  color: #26a69a;
+}
+
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+  .parallax-container .section {
+    width: 100%;
+  }
+#index-banner{
+height: 100vh;
+}
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+footer.page-footer {
+  margin: 0;
+}
+
+.google-maps iframe{
+width: 100% !important;
+}
+
+.padding-sponsors {
+  padding: 5%;
+}
+
+.margin-card {
+  margin: 2%
+}
+
+.padding-section{
+  padding-top: 5%;
+  padding-bottom: 1%;
+}
+
+.material-icons{
+  line-height: 0px;
+}
+
+.carousel{
+  height: 200px
+}
+
+.collection a.collection-item{
+  color: black;
+}
+
+.tabs .indicator{
+  background-color: rgba(13, 71, 161, 0.6);
+}
+
+.tabs {
+  border-bottom: 2px solid #0D47A1;
+}
+
+.card-panel{
+  padding: 10px;
+}
+
+.no-margin-bottom{
+  margin-bottom: 0;
+}
+
+.padding-top{
+  border-top: 1px solid #eaeaea;
+  padding-top: 10px;
+}
+
+.padding-bottom{
+  padding-bottom: 10px;
+}
+
+.btn-inverse, .btn-inverse:hover{
+  border:2px solid #ffa000;
+  background-color: white;
+  color: #ffa000;
+}
+
+.logo-container-margin{
+  margin-top: 7px;
+}
+
+.margin-bottom-sponsors{
+  margin-bottom: 5px;
+}
+
+.margin-top-page{
+  margin-top: 60px
+}
+
+.p-margin-none{
+  margin: 0px;
+}
+
+#mensajeenviado{
+  height: 100vh;
+}
+
+.text-uppercase{
+  text-transform: uppercase;
+}
+
+@media only screen and (max-width: 600px) {
+.text-aling-center-cel{
+  text-align: center;
+  }
+
+.valign-wrapper{
+  display: inherit;
+}
+
+.col-margin-bottom{
+  margin-bottom: 20px;
+}
+
+.logo-container-margin{
+  margin-top: 3px;
+}
+
+.margin-top-page{
+  margin-top: 50px
+}
+
+.margin-top-one{
+  margin-top: 20vh;
+}
+
+h2{
+  font-size:2.5rem;
+}
+}
