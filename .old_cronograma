@@ -1,0 +1,259 @@
+
+<!-- Cronograma -->
+<div id="cronograma" class="row container"> 
+<div class="row center">
+  <div class="col s12"><h3>CRONOGRAMA</h3></div>
+</div>
+
+  <div class="row no-margin-bottom">
+      <div class="col s12">
+        <div class="card-panel blue darken-4 no-margin-bottom center-align"><span class="white-text">JUEVES 6</span></div>        
+      </div>
+  </div>
+
+  <div class="row no-margin-bottom">
+      <div class="col m3 s12 ">
+        <div class="card-panel  blue accent-4 no-margin-bottom center-align"><span class="white-text center">9:00 A 10:00 hs.</span></div>        
+      </div>
+      <div class="col m9 s12 ">
+        <div class="card-panel blue-grey lighten-4 no-margin-bottom">
+          <div class="text-aling-center-cel"><b>ACREDITACIÓN Y DESAYUNO</b></div>
+        </div>        
+      </div>
+  </div>
+
+  <div class="row no-margin-bottom">
+      <div class="col m3 s12 ">
+        <div class="card-panel  blue accent-4 no-margin-bottom center-align"><span class="white-text center">10:00 A 10:30 hs.</span></div>        
+      </div>
+      <div class="col m9 s12 ">
+        <div class="card-panel blue-grey lighten-4 no-margin-bottom">
+          <div class="text-aling-center-cel"><b>APERTURA Y PRESENTACIÓN DE LAS JORNADAS</b></div>
+          <div class="light padding-top text-aling-center-cel">Mg. Elisa Quartucci</div>
+        </div>        
+      </div>
+  </div>
+
+  <div class="row no-margin-bottom">
+      <div class="col m3 s12 ">
+        <div class="card-panel  blue accent-4 no-margin-bottom center-align"><span class="white-text center">10:30 A 12:00 hs.</span></div>        
+      </div>
+      <div class="col m9 s12 ">
+        <div class="card-panel blue-grey lighten-4 no-margin-bottom">
+          <div class="padding-bottom text-aling-center-cel"><b>PANEL</b> - Tarifas y subsidios en gas y electricidad: ¿Laberinto o nuevo punto de partida?</div>
+          <div class="light padding-top text-aling-center-cel">Lic. Andrés Di Pelino</div>
+        </div>        
+      </div>
+  </div>
+
+  <div class="row no-margin-bottom">
+      <div class="col m3 s12 ">
+        <div class="card-panel  blue accent-4 no-margin-bottom center-align"><span class="white-text center">12:15 A 13:15 hs.</span></div>        
+      </div>
+      <div class="col m5 s12 ">
+        <div class="card-panel blue-grey lighten-5 no-margin-bottom">
+          <div class="padding-bottom text-aling-center-cel"><b>CHARLAS</b> - Economía de la Salud</div>
+          <div class="light padding-top text-aling-center-cel">Dra. Nebel Moscoso - Dra. Karina Temporelli - Dr. Fernando Lago</div>
+        </div>        
+      </div>
+      <div class="col m4 s12 ">
+        <div class="card-panel blue-grey lighten-5 no-margin-bottom">
+          <div class="padding-bottom text-aling-center-cel"><b>CHARLAS</b> - Economía de la Educación</div>
+          <div class="light padding-top text-aling-center-cel">Dra. María Marta Formichella</div>
+        </div>        
+      </div>
+  </div>
+
+    <div class="row no-margin-bottom">
+      <div class="col m3 s12 ">
+        <div class="card-panel  blue accent-4 no-margin-bottom center-align"><span class="white-text center">13:15 A 14:15 hs.</span></div>        
+      </div>
+      <div class="col m9 s12 ">
+        <div class="card-panel blue-grey lighten-4 no-margin-bottom">
+          <div class="text-aling-center-cel"><b>ALMUERZO</b></div>
+        </div>        
+      </div>
+  </div>
+
+    <div class="row no-margin-bottom">
+      <div class="col m3 s12 ">
+        <div class="card-panel  blue accent-4 no-margin-bottom center-align"><span class="white-text center">14:15 A 15:45 hs.</span></div>        
+      </div>
+      <div class="col m9 s12 ">
+        <div class="card-panel blue-grey lighten-4 no-margin-bottom">
+          <div class="padding-bottom text-aling-center-cel"><b>PANEL</b> - Coyuntura</div>
+          <div class="light padding-top text-aling-center-cel">Dr. Adrián Ravier - Lic. Oscar Liberman</div>
+        </div>        
+      </div>
+  </div>
+
+    <div class="row no-margin-bottom">
+      <div class="col m3 s12 ">
+        <div class="card-panel  blue accent-4 no-margin-bottom center-align"><span class="white-text center">16:00 A 17:00 hs.</span></div>        
+      </div>
+      <div class="col m5 s12 ">
+        <div class="card-panel blue-grey lighten-5 no-margin-bottom">
+          <div class="padding-bottom text-aling-center-cel"><b>CHARLAS</b> - Economía Ecológica</div>
+          <div class="light padding-top text-aling-center-cel">Dra. Silvia London</div>
+        </div>        
+      </div>
+      <div class="col m4 s12 ">
+        <div class="card-panel blue-grey lighten-5 no-margin-bottom">
+          <div class="padding-bottom text-aling-center-cel"><b>CHARLAS</b> - Deuda externa: ¿Factor de desarrollo o de crisis?</div>
+          <div class="light padding-top text-aling-center-cel">Dr. Gustavo Burachik</div>
+        </div>        
+      </div>
+  </div>
+
+  <div class="row">
+      <div class="col m3 s12 ">
+        <div class="card-panel  blue accent-4 no-margin-bottom center-align"><span class="white-text center">17:00 A 17:15 hs.</span></div>        
+      </div>
+      <div class="col m9 s12 ">
+        <div class="card-panel blue-grey lighten-4 no-margin-bottom">
+          <div class="text-aling-center-cel"><b>CIERRE</b></div>
+        </div>        
+      </div>
+  </div>
+
+  <div class="row no-margin-bottom">
+      <div class="col s12">
+        <div class="card-panel blue darken-4 no-margin-bottom center-align"><span class="white-text">VIERNES 7</span></div>        
+      </div>
+  </div>
+
+  <div class="row no-margin-bottom">
+      <div class="col m3 s12 ">
+        <div class="card-panel  blue accent-4 no-margin-bottom center-align"><span class="white-text center">10:00 A 10:30 hs.</span></div>        
+      </div>
+      <div class="col m9 s12 ">
+        <div class="card-panel blue-grey lighten-4 no-margin-bottom">
+          <div class="text-aling-center-cel"><b>DESAYUNO</b></div>
+        </div>        
+      </div>
+  </div>
+
+  <div class="row no-margin-bottom">
+      <div class="col m3 s12 ">
+        <div class="card-panel  blue accent-4 no-margin-bottom center-align"><span class="white-text center">10:30 A 12:00 hs.</span></div>        
+      </div>
+      <div class="col m9 s12 ">
+        <div class="card-panel blue-grey lighten-4 no-margin-bottom">
+          <div class="padding-bottom text-aling-center-cel"><b>PANEL</b> - Innovación y su impacto en el mercado de trabajo</div>
+          <div class="light padding-top text-aling-center-cel">Dr. Daniel Heymann</div>
+        </div>        
+      </div>
+  </div>
+
+  <div class="row no-margin-bottom">
+      <div class="col m3 s12 ">
+        <div class="card-panel  blue accent-4 no-margin-bottom center-align"><span class="white-text center">12:15 A 13:15 hs.</span></div>        
+      </div>
+      <div class="col m5 s12 ">
+        <div class="card-panel blue-grey lighten-5 no-margin-bottom">
+          <div class="padding-bottom text-aling-center-cel"><b>CHARLA</b> - Mercados financieros</div>
+          <div class="light padding-top text-aling-center-cel">Mg. Isaac Fainstein</div>
+        </div>        
+      </div>
+      <div class="col m4 s12 ">
+        <div class="card-panel blue-grey lighten-5 no-margin-bottom">
+          <div class="padding-bottom text-aling-center-cel"><b>CHARLA</b> - Pobreza: Medición y desafios</div>
+          <div class="light padding-top text-aling-center-cel">Dra. María Emma Santos</div>
+        </div>        
+      </div>
+  </div>
+
+  <div class="row no-margin-bottom">
+      <div class="col m3 s12 ">
+        <div class="card-panel  blue accent-4 no-margin-bottom center-align"><span class="white-text center">13:15 A 14:00 hs.</span></div>        
+      </div>
+      <div class="col m9 s12 ">
+        <div class="card-panel blue-grey lighten-4 no-margin-bottom">
+          <div class="text-aling-center-cel"><b>ALMUERZO</b></div>
+        </div>        
+      </div>
+  </div>
+
+    <div class="row no-margin-bottom">
+      <div class="col m3 s12 ">
+        <div class="card-panel  blue accent-4 no-margin-bottom center-align"><span class="white-text center">14:00 A 15:30 hs.</span></div>        
+      </div>
+      <div class="col m9 s12 ">
+        <div class="card-panel blue-grey lighten-4 no-margin-bottom">
+          <div class="padding-bottom text-aling-center-cel"><b>PANEL</b> - Big Data</div>
+          <div class="light padding-top text-aling-center-cel">Dr. Walter Sosa</div>
+        </div>        
+      </div>
+  </div>
+
+    <div class="row no-margin-bottom">
+      <div class="col m3 s12 ">
+        <div class="card-panel  blue accent-4 no-margin-bottom center-align"><span class="white-text center">15:45 A 17:15 hs.</span></div>        
+      </div>
+      <div class="col m9 s12 ">
+      <div class="col m6 s12 ">
+        <div class="card-panel blue-grey lighten-4 no-margin-bottom">
+          <div class="padding-bottom text-aling-center-cel"><b>TALLER</b> - Finanzas</div>
+          <div class="light padding-top text-aling-center-cel">Mg. Ariel Di Giacomo</div>
+        </div>        
+      </div>
+      <div class="col m6 s12 ">
+        <div class="card-panel blue-grey lighten-4 no-margin-bottom">
+          <div class="padding-bottom text-aling-center-cel"><b>TALLER</b> - “Si, no , tal vez”</div>
+          <div class="light padding-top text-aling-center-cel">Dra. Mara Rojas</div>
+        </div>        
+      </div>
+      </div>
+
+      <div class="col m9 offset-m3 s12 ">
+      <div class="col m6 s12 ">
+        <div class="card-panel blue-grey lighten-4 no-margin-bottom">
+          <div class="padding-bottom text-aling-center-cel"><b>TALLER</b> - Racionalidad</div>
+          <div class="light padding-top text-aling-center-cel">Dr. Esteban Freidin</div>
+        </div>        
+      </div>
+      <div class="col m6 s12 ">
+        <div class="card-panel blue-grey lighten-4 no-margin-bottom">
+          <div class="padding-bottom text-aling-center-cel"><b>TALLER</b> - Puntos de vista</div>
+          <div class="light padding-top text-aling-center-cel">Cra. Dalila Effron</div>
+        </div>        
+      </div>
+      </div>
+  </div>
+
+  <div class="row no-margin-bottom">
+      <div class="col m3 s12 ">
+        <div class="card-panel  blue accent-4 no-margin-bottom center-align"><span class="white-text center">17:15 A 18:00 hs.</span></div>        
+      </div>
+      <div class="col m9 s12 ">
+        <div class="card-panel blue-grey lighten-4 no-margin-bottom">
+          <div class="text-aling-center-cel"><b>MERIENDA</b></div>
+        </div>        
+      </div>
+  </div>
+
+<div class="row no-margin-bottom">
+      <div class="col m3 s12 ">
+        <div class="card-panel  blue accent-4 no-margin-bottom center-align"><span class="white-text center">18:00 A 18:45 hs.</span></div>        
+      </div>
+      <div class="col m9 s12 ">
+        <div class="card-panel blue-grey lighten-4 no-margin-bottom">
+          <div class="text-aling-center-cel"><b>CAFÉ CON ECONOMISTAS</b></div>
+          <div class="light padding-top text-aling-center-cel">Ph. Andrés Di Pelino – Lic. Oscar Liberman - Mg. Isaac Fainstein</div>
+        </div>        
+      </div>
+  </div>
+
+<div class="row">
+      <div class="col m3 s12 ">
+        <div class="card-panel  blue accent-4 no-margin-bottom center-align"><span class="white-text center">18:45 A 19:00 hs.</span></div>        
+      </div>
+      <div class="col m9 s12 ">
+        <div class="card-panel blue-grey lighten-4 no-margin-bottom">
+          <div class="text-aling-center-cel"><b>CIERRE</b></div>
+        </div>        
+      </div>
+  </div>
+
+</div>
+<!-- Fin cronograma -->

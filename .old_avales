@@ -1,0 +1,8 @@
+  <div class="col s12">
+    <div class="carousel">
+    <a class="carousel-item" href="index.html#one!" alt="Universidad Nacional del Sur"><img src="images/avales/1.png"></a>
+    <a class="carousel-item" href="index.html#two!" alt="Unión Industrial de Bahía Blanca - Centro de estudios económicos"><img src="images/avales/2.png"></a>
+    <a class="carousel-item" href="index.html#three!" alt="AAREII"><img src="images/avales/3.png"></a>
+    <a class="carousel-item" href="index.html#four!" alt="Universidad de Belgrano"><img src="images/avales/4.png"></a>
+    <a class="carousel-item" href="index.html#five!" alt="Honorable Consejo Deliberante de Bahía Blanca"><img src="images/avales/5.png"></a>
+  </div>
