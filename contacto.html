@@ -44,37 +44,37 @@
       </div>
       <div class="col m8 s12 offset-m2">
         <div class="row">
-    <form class="col s12" role="form" action="//www.enformed.io/980kjlw" method="post">
-      <div class="row">
-        <div class="input-field col s6">
-          <input id="first_name" name="nombre" type="text" class="validate">
-          <label for="nombre">Nombre</label>
+          <form class="col s12" role="form" action="https://www.enformed.io/980kjlw" method="post">
+            <div class="row">
+              <div class="input-field col s6">
+                <input id="first_name" name="nombre" type="text" class="validate">
+                <label for="nombre">Nombre</label>
+              </div>
+              <div class="input-field col s6">
+                <input id="last_name" name="apellido" type="text" class="validate">
+                <label for="apellido">Apellido</label>
+              </div>
+            </div>
+            <div class="row">
+              <div class="input-field col s12">
+                <input id="email" name="email" type="email" class="validate">
+                <label for="email">Email</label>
+              </div>
+            </div>
+            <div class="row">
+              <div class="input-field col s12">
+                <textarea id="textarea1" name="mensaje" class="materialize-textarea"></textarea>
+                <label for="mensaje">Mensaje</label>
+              </div>
+            </div>
+            <div class="row center-align">
+              <button class="btn waves-effect amber darken-2" type="submit" name="action">Enviar
+                <i class="material-icons right">send</i>
+              </button>
+            </div>
+            <input type="hidden" name="*honeypot" />
+          </form>
         </div>
-        <div class="input-field col s6">
-          <input id="last_name" name="apellido" type="text" class="validate">
-          <label for="apellido">Apellido</label>
-        </div>
-      </div>
-      <div class="row">
-        <div class="input-field col s12">
-          <input id="email" name="email" type="email" class="validate">
-          <label for="email">Email</label>
-        </div>
-      </div>
-      <div class="row">
-        <div class="input-field col s12">
-          <textarea id="textarea1" name="mensaje" class="materialize-textarea"></textarea>
-          <label for="mensaje">Mensaje</label>
-        </div>
-      </div>
-      <div class="row center-align">
-        <button class="btn waves-effect amber darken-2" type="submit" name="action">Enviar
-          <i class="material-icons right">send</i>
-        </button>
-      </div>
-      <input type="hidden" name="*honeypot" />
-    </form>
-  </div>
       </div>
     </div>
 
@@ -104,27 +104,8 @@
 
 
   <!--  Scripts-->
-  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="js/jquery-3.3.1.min.js"></script>
   <script src="js/materialize.js"></script>
   <script src="js/init.js"></script>
-
-<script>
-
-      jQuery(document).ready(function() {
-        $('a[href*=#]:not([href=#])').click(function() {
-          if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
-
-            var target = $(this.hash);
-            target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-            if (target.length) {
-              $('html,body').animate({
-                scrollTop: target.offset().top
-              }, 1000);
-              return false;
-            }
-          }
-        });
-      });
-</script>
   </body>
 </html>
