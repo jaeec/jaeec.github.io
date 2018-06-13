@@ -6,6 +6,14 @@
  * Made By MaterializeCSS.com
  */
 
+.semi-transparent {
+  background:rgba(50,50,50,0.4);
+}
+
+.shadowed-text {
+  text-shadow: 0.125rem 0.125rem 0.25rem #000000;
+}
+
 nav ul a,
 nav .brand-logo {
   color: #444;
