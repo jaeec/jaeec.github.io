@@ -21,18 +21,22 @@
 <body>
 <!-- Navegador -->
 
-  <nav class="white" role="navigation">
-    <div class="nav-wrapper container">
-      <a id="logo-container" class="brand-logo"><img src="images/logo/logo-nav.png" class="logo-container-margin responsive-img" alt=""></a>
-      <ul class="right hide-on-med-and-down">
-        <li><a href="index.html">JAEEc 2018</a></li>
-        <li><a href="nosotros.html">Quiénes somos</a></li>
-        <li><a href="#speakers">Disertantes</a></li>
-        <li><a href="#cronograma">Cronograma</a></li>
-        <li><a href="inscripcion.html" class="waves-effect amber darken-2 btn">Inscripción</a></li>
-      </ul>
-    </div>
+<nav class="white nav-wrapper" role="navigation">
+    <div class="container">
+    <a id="logo-container" class="brand-logo"><img src="images/logo/logo-nav.png" class="logo-container-margin responsive-img" alt=""></a>
+    <ul id="slide-out" class="right">
+      <li><a href="index.html">JAEEc 2018</a></li>
+      <li><a href="nosotros.html">Quiénes somos</a></li>
+      <li><a href="#speakers">Disertantes</a></li>
+      <li><a href="#cronograma">Cronograma</a></li>
+      <li><a href="inscripcion.html" class="waves-effect amber darken-2 btn">Inscripción</a></li>
+    </ul>
+      <a href="#" data-target="slide-out" data-activates="slide-out" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+  </div>
   </nav>
+  
+
+
 <!-- Fin navegador -->
 
   <div id="index-banner" class="parallax-container valign-wrapper">
@@ -489,7 +493,7 @@ Actualmente es profesora adjunta en la UNS, centrandose su investigación en div
 
 
   <!--  Scripts-->
-  <script src="js/jquery-3.3.1.min.js"></script>
+  <script src="js/jquery.min.js"></script>
   <script src="js/materialize.js"></script>
   <script src="js/init.js"></script>
   </body>
