@@ -23,15 +23,14 @@
 
   <nav class="white" role="navigation">
     <div class="nav-wrapper container">
-      <a id="logo-container" href="index.html#" class="brand-logo"><img src="images/logo/logo-nav.png" class="logo-container-margin responsive-img" alt=""></a>
+      <a id="logo-container" class="brand-logo"><img src="images/logo/logo-nav.png" class="logo-container-margin responsive-img" alt=""></a>
       <ul class="right hide-on-med-and-down">
-        <li><a href="index.html#jaeeciv">JAEEc 2018</a></li>
+        <li><a href="index.html">JAEEc 2018</a></li>
         <li><a href="nosotros.html">Quiénes somos</a></li>
-        <li><a href="index.html#speakers">Disertantes</a></li>
-        <li><a href="index.html#cronograma">Cronograma</a></li>
+        <li><a href="#speakers">Disertantes</a></li>
+        <li><a href="#cronograma">Cronograma</a></li>
         <li><a href="inscripcion.html" class="waves-effect amber darken-2 btn">Inscripción</a></li>
       </ul>
-      <a href="index.html#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons blue-text text-darken-4">menu</i></a>
     </div>
   </nav>
 <!-- Fin navegador -->
@@ -493,24 +492,5 @@ Actualmente es profesora adjunta en la UNS, centrandose su investigación en div
   <script src="js/jquery-3.3.1.min.js"></script>
   <script src="js/materialize.js"></script>
   <script src="js/init.js"></script>
-
-<script>
-    $(document).ready(function(){
-      $('a[href*=#]').click(function() {
-        if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
-        && location.hostname == this.hostname) {
-          var $target = $(this.hash);
-          $target = $target.length && $target
-          || $('[name=' + this.hash.slice(1) +']');
-          if ($target.length) {
-            var targetOffset = $target.offset().top;
-            $('html,body')
-            .animate({scrollTop: targetOffset}, 1000);
-           return false;
-          }
-        }
-      });
-    });
-</script>
   </body>
 </html>
