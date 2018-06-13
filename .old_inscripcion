@@ -42,16 +42,45 @@
 <!-- Fin navegador -->
 
     <div class="row container section ">
-      <div class="col s12 center margin-top-page"><h3>INSCRIPCIÓN</h3><p>Próximamente...</p></div>      
+      <div class="col s12 center margin-top-page"><h3>INSCRIPCIÓN</h3></div>      
+      <div class="col s12"> 
+        <p>Ya se encuentra abierta la inscripción a las IV JAEEc para todos aquellos alumnos y graduados interesados en participar de las mismas. Comunicamos, además, que la invitación se extiende tanto a interesados provenientes de la Licenciatura en Economía, como de otras carreras. La inscripción tendrá un costo de $100 y permanecerá abierta hasta llenar el cupo de las aulas.</p>
+        <p>Los participantes de las jornadas contarán con los siguientes beneficios:</p>
+        <ol>
+          <li>Asistencia a las charlas, paneles y talleres dictados.</li>
+          <li>Coffee breaks y almuerzos.</li>
+          <li>Promoción de  su currículum vitae a las empresas patrocinadoras.</li>
+        </ol>
+        <p><b>La inscripción consta de dos etapas.</b> En la primera etapa los interesados deberán <b>completar el formulario</b> que se encuentra a continuación, en el cual se solicitan datos personales y académicos de los participantes. En la segunda etapa, se deberá <b>abonar el pago correspondiente a la inscripción</b>, el cual deberá realizarse según lo detallado a continuación dependiendo si el interesado es alumno de la UNS o es alumno externo, es decir proveniente de otra universidad.</p>
+        <p>Los participantes alumnos de la Universidad Nacional del Sur, deberán llevar el dinero en sobre cerrado con nombre completo y DNI a la fotocopiadora del Centro de Estudiantes de Economía ubicado en el Departamento de Economía  en el Complejo de la UNS en Palihue, dirección San Andrés 800.</p>
+        <p>Los alumnos externos, deberán realizar una transferencia a la <a href="inscripcion.html#modal1" class="modal-trigger">cuenta bancaria de la FUNS</a> y luego enviar por mail el comprobante de depósito a <i>relaciones.estudiantiles@gmail.com</i>.</p>
+      </div>
     </div>
     <div class="row center">
         <div class="col m8 offset-m2 s12">
+          <div class="row">
+            <div class="col s12 center-align"><a href="https://docs.google.com/forms/d/1LGoTN1DXsAxaHNwUwzwEO-EhnjFTVR3G8HrT-6tBooA/viewform" target="_blank" class="btn-large  amber darken-2" style="margin:5px;">Completar formulario</a><a href="inscripcion.html#modal1" class="btn-large btn-inverse modal-trigger" style="margin:5px;">Datos para depósito</a></div>
+          </div>
           <div class="row">
             <div class="col s12 center-align"><a href="https://drive.google.com/file/d/0B4dnYzEPjcYAbUtXb3ZDd2dacFU/view" target="_blank" class="btn-large  grey" style="margin:5px;">Información útil (Hospedajes, transportes, puntos de interés, etc)</a></div>
           </div>
         </div>
     </div>
 
+  <!-- Modal Structure -->
+  <div id="modal1" class="modal">
+    <div class="modal-content">
+      <h5 class="center-align">Fundación de la Universidad Nacional del Sur</h5>
+      <p class="p-margin-none"><b>Banco:</b>Provincia de Buenos Aires</p>
+      <p class="p-margin-none"><b>Sucursal:</b> 6207 -  Barrio Universitario</p>
+      <p class="p-margin-none"><b>Cuenta  Corriente en Pesos:</b> Nº 1368/0</p>
+      <p class="p-margin-none"><b>CUIT:</b> 30-66417781-8</p>
+      <p class="p-margin-none"><b>CBU:</b> 01404603 – 01620700136804</p>
+    </div>
+    <div class="modal-footer">
+      <a href="inscripcion.html" class="modal-action modal-close waves-effect amber darken-2 white-text btn-flat ">cerrar</a>
+    </div>
+  </div>
 
 <!-- Google Maps -->
   <div class="row container section center">
