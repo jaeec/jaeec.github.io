@@ -191,8 +191,9 @@ h2{
 }
 }
 
-.card-orador {
-  font-size: 1.25 rem !important;
+.card.card-image.card-orador,
+.card.card-reveal.card-orador {
+  font-size: 1.25 rem;
 }
 
 .dark-section-title-shadow {
