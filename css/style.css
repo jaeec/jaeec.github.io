@@ -10,6 +10,11 @@
   background:rgba(50,50,50,0.4);
 }
 
+.semi-transparent-card {
+  background:rgba(50,50,50,0.55);
+}
+
+
 .shadowed-text {
   text-shadow: 0.125rem 0.125rem 0.25rem #000000;
 }
