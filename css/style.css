@@ -192,7 +192,7 @@ h2{
 }
 
 .card-orador {
-  font-size: 1.25 rem;
+  font-size: 1.25 rem !important;
 }
 
 .dark-section-title-shadow {
