@@ -191,8 +191,8 @@ h2{
 }
 }
 
-.card.card-image.card-orador,
-.card.card-reveal.card-orador {
+.card .card-image .card-title.card-orador,
+.card .card-reveal .card-title.card-orador {
   font-size: 1.25 rem;
 }
 
