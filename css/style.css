@@ -212,3 +212,9 @@ div.card div.card-reveal span.card-title.card-orador {
 .amber.darken-2 {
   background-color: #73b5c5 !important
 }
+
+.tabs .tab a:focus, 
+.tabs .tab a:focus.active
+{
+  background-color: rgba(21, 101, 192, 0.37) !important
+}
