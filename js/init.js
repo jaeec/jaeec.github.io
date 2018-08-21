@@ -6,12 +6,12 @@ $(document).ready(function(){
   $('.tabs').tabs();
 });
 */
-(function($){
-  $(function(){
-
+(function($) {
+  $(function() {
     $('.sidenav').sidenav();
     $('.parallax').parallax();
     $('.carousel').carousel();
     $('.tabs').tabs();
+    $('.modal').modal();
   }); // end of document ready
 })(jQuery); // end of jQuery name space
