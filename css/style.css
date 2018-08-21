@@ -218,3 +218,14 @@ div.card div.card-reveal span.card-title.card-orador {
 {
   background-color: rgba(21, 101, 192, 0.37) !important
 }
+
+.card.small {
+  height: auto;
+  min-height: 300px;
+}
+.card.small .card-content {
+  height: auto;
+}
+.card.small .card-action {
+  position: relative;
+}
