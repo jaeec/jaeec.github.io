@@ -206,11 +206,15 @@ div.card div.card-reveal span.card-title.card-orador {
 }
 
 .blue.darken-4 {
-  background-color: #4e629d !important
+  background-color: #4e629d !important;
 }
 
 .amber.darken-2 {
-  background-color: #73b5c5 !important
+  background-color: #73b5c5 !important;
+}
+
+.amber.darken-3 {
+  background-color: #6bb0b3 !important;
 }
 
 .tabs .tab a:focus, 
@@ -228,4 +232,16 @@ div.card div.card-reveal span.card-title.card-orador {
 }
 .card.small .card-action {
   position: relative;
+}
+
+.full-width {
+  width: 100%;
+}
+
+#botones-1 {
+  margin-bottom: 0.25rem;
+}
+
+.margin-bottom-025 {
+  margin-bottom: 0.25rem !important;
 }
